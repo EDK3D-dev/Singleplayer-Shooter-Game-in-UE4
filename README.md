@@ -41,7 +41,7 @@ As a tester.
 
 # Screenshots
 
-![alt text](res/br0.png)
-![alt text](res/br1.png)
-![alt text](res/br2.png)
-![alt text](res/br3.png)
+![alt text](res/br0.png "zombie")
+![alt text](res/br1.png "goup of zombies eating bot")
+![alt text](res/br2.png "explosion")
+![alt text](res/br3.png "this beautiful night sky")
